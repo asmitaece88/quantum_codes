@@ -1,3 +1,2 @@
 # quantum_codes
-## Simple codde to build a single qubit hadamard gate and measure it
-https://github.com/asmitaece88/quantum_codes/blob/main/quantum_class_27thnov.ipynb
+## Simple code to build a pauli - x Gate with both |0> and |1> , with graphical presentations (  executed in google colab)
