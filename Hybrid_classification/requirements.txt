@@ -1,1 +1,3 @@
-
+qiskit-aer
+qiskit_machine_learning
+qiskit
