@@ -1,3 +1,5 @@
+> **Dataset clarification:** We did not change any dataset values because the data itself was usable. The issue was only that `merchant_risk_score` was mislabeled, so we renamed it to `merchant_trust_score` to match what the existing values actually represent.
+>
 > **Round 1 Prototype:** A hybrid quantum-classical fraud detection
 > experiment comparing Variational Quantum Classifiers implemented with
 > Qiskit and PennyLane against an XGBoost baseline on the same
