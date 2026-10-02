@@ -1,4 +1,4 @@
-transaction_amount,device_trust_score,merchant_risk_score,location_distance_km,transactions_last_hour,fraud
+transaction_amount,device_trust_score,merchant_trust_score,location_distance_km,transactions_last_hour,fraud
 29.4813827,0.841232152,0.161339802,9.935131041,1,0
 49.95546497,0.454357867,0.109671842,10.91867907,0,0
 65.73967438,0.740247974,0.318506245,15.36895088,0,0
