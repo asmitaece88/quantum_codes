@@ -1,4 +1,3 @@
-```markdown
 > **Round 1 Prototype:** A hybrid quantum-classical fraud detection
 > experiment comparing Variational Quantum Classifiers implemented with
 > Qiskit and PennyLane against an XGBoost baseline on the same
@@ -41,3 +40,4 @@ features:
 ```text
 device_trust_score
 merchant_trust_score
+```
