@@ -1,3 +1,13 @@
+qiskit
 qiskit-aer
 qiskit_machine_learning
-qiskit
+qiskit-algorithms
+pennylane
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+xgboost
+jupyter
+pylatexenc
